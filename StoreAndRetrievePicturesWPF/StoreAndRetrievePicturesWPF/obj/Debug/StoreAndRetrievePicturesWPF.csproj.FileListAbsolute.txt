@@ -1,0 +1,17 @@
+c:\users\nabil\documents\visual studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\bin\Debug\StoreAndRetrievePicturesWPF.exe.config
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\obj\Debug\StoreAndRetrievePicturesWPF.csprojResolveAssemblyReference.cache
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\obj\Debug\MainWindow.baml
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\obj\Debug\App.g.cs
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\obj\Debug\StoreAndRetrievePicturesWPF_MarkupCompile.cache
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\obj\Debug\StoreAndRetrievePicturesWPF.g.resources
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\obj\Debug\StoreAndRetrievePicturesWPF.Properties.Resources.resources
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\obj\Debug\StoreAndRetrievePicturesWPF.csproj.GenerateResource.Cache
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\bin\Debug\StoreAndRetrievePicturesWPF.exe
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\bin\Debug\StoreAndRetrievePicturesWPF.pdb
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\bin\Debug\EntityFramework.dll
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\bin\Debug\EntityFramework.xml
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\obj\Debug\StoreAndRetrievePicturesWPF.exe
+C:\Users\Nabil\Documents\Visual Studio 2013\Projects\StoreAndRetrievePicturesWPF\StoreAndRetrievePicturesWPF\obj\Debug\StoreAndRetrievePicturesWPF.pdb
